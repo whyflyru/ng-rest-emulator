@@ -1,11 +1,11 @@
 {
   "name": "ng-rest-emulator",
   "version": "0.0.1",
-  "homepage": "https://github.com/temrdm/ng-rest-emulator",
+  "homepage": "https://github.com/whyflyru/ng-rest-emulator",
   "authors": [
     "tem.rdm <tem.rdm@gmail.com>"
   ],
-  "description": "Angular module for temrdm/rest-emulator ",
+  "description": "Angular module for whyflyru/rest-emulator ",
   "main": "./build/ng-rest-emulator.js",
   "keywords": [
     "rest-emulator",

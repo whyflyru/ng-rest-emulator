@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/temrdm/ng-rest-emulator.git"
+    "url": "https://github.com/whyflyru/ng-rest-emulator.git"
   },
   "keywords": [
     "rest-emulator"
@@ -16,9 +16,9 @@
   "author": "Artem Pogrebnoy <tem.rdm@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/temrdm/ng-rest-emulator/issues"
+    "url": "https://github.com/whyflyru/ng-rest-emulator/issues"
   },
-  "homepage": "https://github.com/temrdm/ng-rest-emulator",
+  "homepage": "https://github.com/whyflyru/ng-rest-emulator",
   "devDependencies": {
     "gulp": "^3.8.10",
     "gulp-angular-filesort": "^1.0.4",
